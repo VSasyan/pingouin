@@ -4,6 +4,13 @@
 
 L'objectif de ce site est de recueillir les expressions dans le style de « c'est pas le pingouin qui glisse le plus loin » tout en fournissant une interface pour les parcourir facilement.
 
+## Développement
+
+```sh
+cd pingouin
+npm run start
+```
+
 ## Déploiement
 
 ```sh
