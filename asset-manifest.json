@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pingouin/static/css/main.f855e6bc.css",
+    "main.js": "/pingouin/static/js/main.40906b5f.js",
+    "static/js/453.2bfd26e9.chunk.js": "/pingouin/static/js/453.2bfd26e9.chunk.js",
+    "index.html": "/pingouin/index.html",
+    "main.f855e6bc.css.map": "/pingouin/static/css/main.f855e6bc.css.map",
+    "main.40906b5f.js.map": "/pingouin/static/js/main.40906b5f.js.map",
+    "453.2bfd26e9.chunk.js.map": "/pingouin/static/js/453.2bfd26e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.40906b5f.js"
+  ]
+}
